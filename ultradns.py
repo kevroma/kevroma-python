@@ -5,7 +5,7 @@ import json
 ### Getting accessToken
 url = "https://api.ultradns.com/authorization/token"
 
-payload = 'grant_type=password&username=yuske.im&password=***********'
+payload = 'grant_type=password&username=kevin&password=***********'
 headers = {
   'Content-Type': 'application/x-www-form-urlencoded',
 }
